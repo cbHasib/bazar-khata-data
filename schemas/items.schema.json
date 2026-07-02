@@ -1,0 +1,187 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bazar-khata/data/schemas/items.schema.json",
+  "title": "Bazar Khata Items Document",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "datasetVersion", "generatedAt", "items"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "datasetVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/item" }
+    }
+  },
+  "$defs": {
+    "unit": {
+      "enum": [
+        "kg",
+        "g",
+        "l",
+        "ml",
+        "pcs",
+        "dozen",
+        "bundle",
+        "pack",
+        "box",
+        "bottle",
+        "jar",
+        "can",
+        "roll",
+        "bag",
+        "pair"
+      ]
+    },
+    "localizedName": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en", "bn"],
+      "properties": {
+        "en": { "type": "string", "minLength": 1 },
+        "bn": { "type": "string", "minLength": 1 }
+      }
+    },
+    "aliases": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en", "bn", "banglish"],
+      "properties": {
+        "en": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "bn": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "banglish": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        }
+      }
+    },
+    "seasonality": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "months", "note"],
+      "properties": {
+        "type": { "const": "seasonal" },
+        "months": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "integer", "minimum": 1, "maximum": 12 }
+        },
+        "note": { "type": ["string", "null"] }
+      }
+    },
+    "priceEstimate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "amount",
+        "currency",
+        "quantity",
+        "unit",
+        "geography",
+        "observedAt",
+        "marketLevel",
+        "sourceUrl",
+        "method"
+      ],
+      "properties": {
+        "amount": { "type": "number", "minimum": 0 },
+        "currency": { "const": "BDT" },
+        "quantity": { "type": "number", "exclusiveMinimum": 0 },
+        "unit": { "$ref": "#/$defs/unit" },
+        "geography": { "type": "string", "minLength": 1 },
+        "observedAt": { "type": "string", "format": "date" },
+        "marketLevel": { "enum": ["retail", "wholesale", "mixed", "unknown"] },
+        "sourceUrl": { "type": "string", "format": "uri" },
+        "method": { "type": "string", "minLength": 1 }
+      }
+    },
+    "image": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "license", "attribution"],
+      "properties": {
+        "url": { "type": "string", "format": "uri" },
+        "license": { "type": "string", "minLength": 1 },
+        "attribution": { "type": "string", "minLength": 1 }
+      }
+    },
+    "item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "slug",
+        "name",
+        "aliases",
+        "categoryId",
+        "categorySlug",
+        "defaultUnit",
+        "supportedUnits",
+        "defaultQuantity",
+        "averagePrice",
+        "priceEstimate",
+        "image",
+        "emoji",
+        "seasonal",
+        "seasonality",
+        "brand",
+        "barcode",
+        "scientificName",
+        "tags",
+        "sourceRefs",
+        "createdAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": { "type": "string", "format": "uuid" },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "name": { "$ref": "#/$defs/localizedName" },
+        "aliases": { "$ref": "#/$defs/aliases" },
+        "categoryId": { "type": "string", "format": "uuid" },
+        "categorySlug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "defaultUnit": { "$ref": "#/$defs/unit" },
+        "supportedUnits": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "$ref": "#/$defs/unit" }
+        },
+        "defaultQuantity": { "type": "number", "exclusiveMinimum": 0 },
+        "averagePrice": { "type": ["number", "null"], "minimum": 0 },
+        "priceEstimate": { "anyOf": [{ "$ref": "#/$defs/priceEstimate" }, { "type": "null" }] },
+        "image": { "anyOf": [{ "$ref": "#/$defs/image" }, { "type": "null" }] },
+        "emoji": { "type": "string", "minLength": 1 },
+        "seasonal": { "type": "boolean" },
+        "seasonality": { "anyOf": [{ "$ref": "#/$defs/seasonality" }, { "type": "null" }] },
+        "brand": { "type": ["string", "null"] },
+        "barcode": { "type": ["string", "null"] },
+        "scientificName": { "type": ["string", "null"] },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "sourceRefs": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      }
+    }
+  }
+}

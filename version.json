@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "1.0.0",
+  "releasedAt": "2026-07-02T00:00:00.000Z",
+  "minimumAppVersion": "1.0.0",
+  "breaking": false,
+  "locale": "bn-BD",
+  "currency": "BDT",
+  "files": {
+    "categories": {
+      "path": "categories.json",
+      "sha256": "7534172a3c5a6c7e1d92673345c7dd995dda8a9b7401021f970cd09ed13c2d02",
+      "bytes": 10057,
+      "records": 23
+    },
+    "items": {
+      "path": "items.json",
+      "sha256": "2cd45bf2f936410de604a5502adc7b67dc66a0f14b19eb0e1f078d61174f149b",
+      "bytes": 582344,
+      "records": 593
+    }
+  },
+  "categoryCounts": {
+    "rice-grains": 26,
+    "flour-noodles": 19,
+    "pulses-legumes": 19,
+    "vegetables": 50,
+    "leafy-greens": 24,
+    "fruits": 51,
+    "fish-seafood": 57,
+    "meat-poultry": 20,
+    "dairy-eggs": 21,
+    "oils-fats": 13,
+    "spices-condiments": 54,
+    "snacks-bakery": 38,
+    "beverages": 22,
+    "frozen-packaged": 24,
+    "cleaning": 35,
+    "personal-care": 33,
+    "health-wellness": 20,
+    "baby-care": 18,
+    "pet-care": 13,
+    "household-kitchen": 20,
+    "stationery": 16,
+    "religious-festival": 0,
+    "other": 0
+  },
+  "notes": [
+    "Initial research-backed bilingual generic catalogue.",
+    "Static price estimates intentionally omitted."
+  ]
+}

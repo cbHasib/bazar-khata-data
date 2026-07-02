@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "1.0.0",
+  "generatedAt": "2026-07-02T00:00:00.000Z",
+  "categories": [
+    {
+      "id": "4d21dd69-729c-5162-9bb1-1f05d4eef48f",
+      "slug": "rice-grains",
+      "name": {
+        "en": "Rice & Grains",
+        "bn": "চাল ও শস্য"
+      },
+      "icon": "Wheat",
+      "color": "#D97706",
+      "backgroundColor": "#FEF3C7",
+      "sortOrder": 1,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "6d6b31df-827c-5926-9bdc-35d14280546a",
+      "slug": "flour-noodles",
+      "name": {
+        "en": "Flour, Noodles & Pasta",
+        "bn": "আটা, ময়দা ও নুডলস"
+      },
+      "icon": "Soup",
+      "color": "#B45309",
+      "backgroundColor": "#FFEDD5",
+      "sortOrder": 2,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "326fead7-a8fd-5283-8c1c-b9451ed4fb51",
+      "slug": "pulses-legumes",
+      "name": {
+        "en": "Pulses & Legumes",
+        "bn": "ডাল ও শুঁটি"
+      },
+      "icon": "Bean",
+      "color": "#EA580C",
+      "backgroundColor": "#FFF7ED",
+      "sortOrder": 3,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "dee4e308-655a-57de-b1db-8a8127cd05ce",
+      "slug": "vegetables",
+      "name": {
+        "en": "Vegetables",
+        "bn": "শাকসবজি"
+      },
+      "icon": "Carrot",
+      "color": "#16A34A",
+      "backgroundColor": "#DCFCE7",
+      "sortOrder": 4,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "ee261227-5555-56ed-88fa-3bce8ab47fb1",
+      "slug": "leafy-greens",
+      "name": {
+        "en": "Leafy Greens & Herbs",
+        "bn": "শাক ও পাতা"
+      },
+      "icon": "LeafyGreen",
+      "color": "#059669",
+      "backgroundColor": "#D1FAE5",
+      "sortOrder": 5,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "33e01328-70a5-50a9-8071-737798c80bcc",
+      "slug": "fruits",
+      "name": {
+        "en": "Fruits",
+        "bn": "ফলমূল"
+      },
+      "icon": "Apple",
+      "color": "#F43F5E",
+      "backgroundColor": "#FFE4E6",
+      "sortOrder": 6,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "7c13af60-81e4-59c5-ad9e-cc1fa77999bc",
+      "slug": "fish-seafood",
+      "name": {
+        "en": "Fish & Seafood",
+        "bn": "মাছ ও সামুদ্রিক খাবার"
+      },
+      "icon": "Fish",
+      "color": "#0284C7",
+      "backgroundColor": "#E0F2FE",
+      "sortOrder": 7,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "9b39306c-870d-5d64-9bcf-43a4b5c4e43c",
+      "slug": "meat-poultry",
+      "name": {
+        "en": "Meat & Poultry",
+        "bn": "মাংস ও পোলট্রি"
+      },
+      "icon": "Drumstick",
+      "color": "#DC2626",
+      "backgroundColor": "#FEE2E2",
+      "sortOrder": 8,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "a7cf4592-6c64-518d-87cf-ef51c783dd3e",
+      "slug": "dairy-eggs",
+      "name": {
+        "en": "Dairy & Eggs",
+        "bn": "দুধ ও ডিম"
+      },
+      "icon": "Milk",
+      "color": "#2563EB",
+      "backgroundColor": "#DBEAFE",
+      "sortOrder": 9,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "9e5e1667-08cf-5d46-81d9-6a2d8f79e14f",
+      "slug": "oils-fats",
+      "name": {
+        "en": "Oils & Fats",
+        "bn": "তেল ও চর্বি"
+      },
+      "icon": "Droplets",
+      "color": "#EAB308",
+      "backgroundColor": "#FEF9C3",
+      "sortOrder": 10,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "c9cf613a-2e9d-5a21-ae20-8d0e6f043ca0",
+      "slug": "spices-condiments",
+      "name": {
+        "en": "Spices & Condiments",
+        "bn": "মসলা ও স্বাদবর্ধক"
+      },
+      "icon": "Flame",
+      "color": "#EA580C",
+      "backgroundColor": "#FFEDD5",
+      "sortOrder": 11,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "263ba616-3587-5e67-85b5-a8776a1338b9",
+      "slug": "snacks-bakery",
+      "name": {
+        "en": "Snacks & Bakery",
+        "bn": "নাশতা ও বেকারি"
+      },
+      "icon": "Cookie",
+      "color": "#A16207",
+      "backgroundColor": "#FEF3C7",
+      "sortOrder": 12,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "ec35e588-afea-57f3-9801-df4bdf752776",
+      "slug": "beverages",
+      "name": {
+        "en": "Beverages",
+        "bn": "পানীয়"
+      },
+      "icon": "CupSoda",
+      "color": "#0891B2",
+      "backgroundColor": "#CFFAFE",
+      "sortOrder": 13,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "df1286dc-1d68-5e89-857f-1c952ad1d7fe",
+      "slug": "frozen-packaged",
+      "name": {
+        "en": "Frozen & Packaged Food",
+        "bn": "হিমায়িত ও প্যাকেটজাত খাবার"
+      },
+      "icon": "Snowflake",
+      "color": "#4F46E5",
+      "backgroundColor": "#E0E7FF",
+      "sortOrder": 14,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "dad0ccdd-b7c0-558d-b840-ab936a01b9e0",
+      "slug": "cleaning",
+      "name": {
+        "en": "Cleaning",
+        "bn": "পরিষ্কার-পরিচ্ছন্নতা"
+      },
+      "icon": "Sparkles",
+      "color": "#0D9488",
+      "backgroundColor": "#CCFBF1",
+      "sortOrder": 15,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "cc0060a6-49f0-5c5d-a213-f68aea471311",
+      "slug": "personal-care",
+      "name": {
+        "en": "Personal Care",
+        "bn": "ব্যক্তিগত যত্ন"
+      },
+      "icon": "Heart",
+      "color": "#DB2777",
+      "backgroundColor": "#FCE7F3",
+      "sortOrder": 16,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "8565322d-9322-54cc-9366-e0946c225d3e",
+      "slug": "health-wellness",
+      "name": {
+        "en": "Health & Wellness",
+        "bn": "স্বাস্থ্য ও সুরক্ষা"
+      },
+      "icon": "HeartPulse",
+      "color": "#E11D48",
+      "backgroundColor": "#FFE4E6",
+      "sortOrder": 17,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "27b5509a-3ad6-5ac5-accc-2ef367488423",
+      "slug": "baby-care",
+      "name": {
+        "en": "Baby Care",
+        "bn": "শিশুর যত্ন"
+      },
+      "icon": "Baby",
+      "color": "#7C3AED",
+      "backgroundColor": "#EDE9FE",
+      "sortOrder": 18,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "c75932d6-1e1f-53e4-a868-c8ea8ba8df0c",
+      "slug": "pet-care",
+      "name": {
+        "en": "Pet Care",
+        "bn": "পোষা প্রাণীর যত্ন"
+      },
+      "icon": "PawPrint",
+      "color": "#9333EA",
+      "backgroundColor": "#F3E8FF",
+      "sortOrder": 19,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "150371ef-eb0b-5d08-9fe5-1787c98167d7",
+      "slug": "household-kitchen",
+      "name": {
+        "en": "Household & Kitchen",
+        "bn": "গৃহস্থালি ও রান্নাঘর"
+      },
+      "icon": "House",
+      "color": "#475569",
+      "backgroundColor": "#F1F5F9",
+      "sortOrder": 20,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "b835921e-7977-5e5d-a698-354f4493ac76",
+      "slug": "stationery",
+      "name": {
+        "en": "Stationery",
+        "bn": "স্টেশনারি"
+      },
+      "icon": "Pencil",
+      "color": "#4F46E5",
+      "backgroundColor": "#EEF2FF",
+      "sortOrder": 21,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "b1aece6a-a4e0-5671-bc33-9b6734cf990e",
+      "slug": "religious-festival",
+      "name": {
+        "en": "Festival Essentials",
+        "bn": "উৎসবের প্রয়োজনীয়"
+      },
+      "icon": "MoonStar",
+      "color": "#C026D3",
+      "backgroundColor": "#FAE8FF",
+      "sortOrder": 22,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "e97f5832-13ce-5e33-abfa-cb16ddaee1c0",
+      "slug": "other",
+      "name": {
+        "en": "Other",
+        "bn": "অন্যান্য"
+      },
+      "icon": "Shapes",
+      "color": "#64748B",
+      "backgroundColor": "#F1F5F9",
+      "sortOrder": 23,
+      "isActive": true,
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "updatedAt": "2026-07-02T00:00:00.000Z"
+    }
+  ]
+}

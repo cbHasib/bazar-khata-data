@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bazar-khata/data/schemas/version.schema.json",
+  "title": "Bazar Khata Dataset Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "datasetVersion",
+    "releasedAt",
+    "minimumAppVersion",
+    "breaking",
+    "locale",
+    "currency",
+    "files",
+    "categoryCounts",
+    "notes"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "datasetVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "releasedAt": { "type": "string", "format": "date-time" },
+    "minimumAppVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "breaking": { "type": "boolean" },
+    "locale": { "const": "bn-BD" },
+    "currency": { "const": "BDT" },
+    "files": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["categories", "items"],
+      "properties": {
+        "categories": { "$ref": "#/$defs/file" },
+        "items": { "$ref": "#/$defs/file" }
+      }
+    },
+    "categoryCounts": {
+      "type": "object",
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    },
+    "notes": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+  },
+  "$defs": {
+    "file": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "sha256", "bytes", "records"],
+      "properties": {
+        "path": { "type": "string", "pattern": "^[a-z0-9.-]+\\.json$" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "bytes": { "type": "integer", "minimum": 1 },
+        "records": { "type": "integer", "minimum": 0 }
+      }
+    }
+  }
+}
