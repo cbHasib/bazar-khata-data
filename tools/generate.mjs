@@ -4,10 +4,11 @@ import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const here = dirname(fileURLToPath(import.meta.url));
-const root = resolve(here, '../..');
-const dataDir = resolve(root, 'data');
-const bundleDataDir = resolve(root, 'src/assets/data');
-const researchPath = resolve(root, 'research/DATA_RESEARCH.md');
+const dataDir = resolve(here, '..');
+// The app repository lives beside this data repository inside bazar-khata-services/.
+const appDir = process.env.BAZAR_APP_DIR ?? resolve(here, '../../bazar-khata');
+const bundleDataDir = resolve(appDir, 'src/assets/data');
+const researchPath = resolve(appDir, 'research/DATA_RESEARCH.md');
 
 const RELEASED_AT = '2026-07-02T00:00:00.000Z';
 const DATASET_VERSION = '1.0.0';
