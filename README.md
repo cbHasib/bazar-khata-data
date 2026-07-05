@@ -1,6 +1,6 @@
 # Bazar Khata default dataset
 
-This directory is designed to be served directly through GitHub Raw or any static host.
+This repository (`github.com/cbHasib/bazar-khata-data`) is served directly through GitHub Raw with the public files at the repository root. Releases are made from the app repository via `scripts/publish-data.sh` (validate → commit → tag `v<datasetVersion>` → push).
 
 ## Public files
 
@@ -9,12 +9,12 @@ This directory is designed to be served directly through GitHub Raw or any stati
 - `items.json` — bilingual generic grocery/household catalogue.
 - `schemas/*.schema.json` — JSON Schema contracts.
 
-Raw URL pattern after pushing the repository:
+Raw URLs (must match the app's `APP_CONFIG.remoteDataBaseUrl`):
 
 ```text
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/data/version.json
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/data/categories.json
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/data/items.json
+https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/version.json
+https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/categories.json
+https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/items.json
 ```
 
 Pin production clients to a release tag or controlled data branch rather than an arbitrary feature branch.
