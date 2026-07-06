@@ -5682,7 +5682,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-amrapali-mango.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -5729,7 +5733,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-apple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -5768,7 +5776,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-avocado.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🥑",
       "seasonal": false,
       "seasonality": null,
@@ -5808,7 +5820,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-banana.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍌",
       "seasonal": false,
       "seasonality": null,
@@ -5847,7 +5863,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-champa-banana.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -5886,7 +5906,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-cherry.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -5925,7 +5949,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-coconut.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🥥",
       "seasonal": false,
       "seasonality": null,
@@ -5964,7 +5992,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-custard-apple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6003,7 +6035,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-dates.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🌴",
       "seasonal": false,
       "seasonality": null,
@@ -6042,7 +6078,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-dragon-fruit.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6081,7 +6121,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-dried-dates.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6120,7 +6164,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-elephant-apple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6159,7 +6207,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-fazli-mango.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6205,7 +6257,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-gopalbhog-mango.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6251,7 +6307,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-grapes.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍇",
       "seasonal": false,
       "seasonality": null,
@@ -6289,7 +6349,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-green-coconut.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6329,7 +6393,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-guava.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍐",
       "seasonal": false,
       "seasonality": null,
@@ -6368,7 +6436,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-himsagar-mango.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6414,7 +6486,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-hog-plum.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6455,7 +6531,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-indian-gooseberry.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6493,7 +6573,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-jackfruit.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍈",
       "seasonal": true,
       "seasonality": {
@@ -6541,7 +6625,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-java-plum.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6590,7 +6678,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-jujube.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6637,7 +6729,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-kiwi.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🥝",
       "seasonal": false,
       "seasonality": null,
@@ -6676,7 +6772,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-langra-mango.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6722,7 +6822,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-lemon.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍋",
       "seasonal": false,
       "seasonality": null,
@@ -6761,7 +6865,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-lime.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6800,7 +6908,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-lychee.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6846,7 +6958,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-mandarin.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -6886,7 +7002,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-mango.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🥭",
       "seasonal": true,
       "seasonality": {
@@ -6932,7 +7052,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-muskmelon.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -6979,7 +7103,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-orange.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7017,7 +7145,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-papaya.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍈",
       "seasonal": false,
       "seasonality": null,
@@ -7056,7 +7188,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-peach.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7095,7 +7231,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-pear.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍐",
       "seasonal": false,
       "seasonality": null,
@@ -7133,7 +7273,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-pineapple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍍",
       "seasonal": false,
       "seasonality": null,
@@ -7172,7 +7316,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-plantain.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7211,7 +7359,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-plum.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7250,7 +7402,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-pomegranate.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7288,7 +7444,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-pomelo.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7327,7 +7487,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-raisins.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7366,7 +7530,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-rose-apple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": true,
       "seasonality": {
@@ -7413,7 +7581,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-sabri-banana.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7452,7 +7624,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-sagar-banana.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7491,7 +7667,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-sapodilla.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7530,7 +7710,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-star-fruit.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7569,7 +7753,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-strawberry.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍓",
       "seasonal": false,
       "seasonality": null,
@@ -7608,7 +7796,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-sweet-lime.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7647,7 +7839,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-tamarind.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
@@ -7687,7 +7883,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-watermelon.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍉",
       "seasonal": true,
       "seasonality": {
@@ -7734,7 +7934,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-wood-apple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🍎",
       "seasonal": false,
       "seasonality": null,
