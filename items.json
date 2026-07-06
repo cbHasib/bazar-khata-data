@@ -431,7 +431,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-kalijira-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -471,7 +475,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-kataribhog-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -511,7 +519,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-medium-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -553,7 +565,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-millet.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -593,7 +609,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-miniket-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -633,7 +653,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-nazirshail-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -673,7 +697,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-paijam-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -713,7 +741,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-parboiled-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -754,7 +786,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-popped-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,
@@ -796,7 +832,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-puffed-rice.jpg",
+        "license": "CC0",
+        "attribution": "Antigravity AI"
+      },
       "emoji": "🌾",
       "seasonal": false,
       "seasonality": null,

@@ -543,7 +543,7 @@ function inferUnits(categorySlug, englishName) {
   return { defaultUnit: 'pcs', supportedUnits: ['pcs', 'pack'], defaultQuantity: 1 };
 }
 
-function parseCatalogue(markdown) {
+function parseCatalogue(markdown, itemImages = {}) {
   const items = [];
   const sectionPattern = /^### (.+)\n\n([\s\S]*?)(?=\n### |\n## |$)/gm;
   for (const match of markdown.matchAll(sectionPattern)) {
@@ -597,7 +597,7 @@ function parseCatalogue(markdown) {
         defaultQuantity,
         averagePrice: null,
         priceEstimate: null,
-        image: null,
+        image: itemImages[slug] ?? null,
         emoji: itemEmoji[englishName] ?? emojiByCategory[categorySlug],
         seasonal: Boolean(months),
         seasonality: months ? { type: 'seasonal', months, note: null } : null,
@@ -628,7 +628,14 @@ async function writeJson(path, value) {
 }
 
 const markdown = await readFile(researchPath, 'utf8');
-const items = parseCatalogue(markdown);
+const itemImagesPath = resolve(here, 'item-images.json');
+let itemImages = {};
+try {
+  itemImages = JSON.parse(await readFile(itemImagesPath, 'utf8'));
+} catch (err) {
+  // If no mapping file exists, default to empty object
+}
+const items = parseCatalogue(markdown, itemImages);
 await mkdir(dataDir, { recursive: true });
 await mkdir(bundleDataDir, { recursive: true });
 
