@@ -15,8 +15,8 @@
     },
     "items": {
       "path": "items.json",
-      "sha256": "d0c06dd3ed7395d5d0f2a50b878e3ec25e285535d4a4306d4dc464c516a46405",
-      "bytes": 584233,
+      "sha256": "09f971aa7729a35c4dc4ce13e703344ce51c49fb449dcff26b865959d5cb9204",
+      "bytes": 584203,
       "records": 593
     }
   },
