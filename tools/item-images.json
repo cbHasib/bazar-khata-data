@@ -453,5 +453,410 @@
     "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-wood-apple.jpg",
     "license": "CC0",
     "attribution": "Bazar Khata"
+  },
+  "rice-grains-atash-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-atash-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-barley": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-barley.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-basmati-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-basmati-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-brown-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-brown-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-brri-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-brri-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-chinigura-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-chinigura-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-coarse-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-coarse-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-corn": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-corn.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-fine-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-fine-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "rice-grains-flattened-rice": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-flattened-rice.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-field-pea-dal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-field-pea-dal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-gram-sprouts": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-gram-sprouts.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-grass-pea-dal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-grass-pea-dal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-green-peas": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-green-peas.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-kidney-bean": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-kidney-bean.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-mixed-dal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-mixed-dal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-mung-sprouts": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-mung-sprouts.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-pigeon-pea-dal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-pigeon-pea-dal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-red-lentil": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-red-lentil.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-roasted-gram": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-roasted-gram.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-soybean": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-soybean.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-split-chickpea": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-split-chickpea.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-split-mung-dal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-split-mung-dal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pulses-legumes-whole-mung": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-whole-mung.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-ash-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-ash-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-bamboo-shoot": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-bamboo-shoot.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-banana-flower": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-banana-flower.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-banana-stem": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-banana-stem.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-beetroot": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-beetroot.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-bitter-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-bitter-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-bottle-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-bottle-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-brinjal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-brinjal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-broad-bean": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-broad-bean.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-broccoli": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-broccoli.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-cabbage": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-cabbage.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-capsicum": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-capsicum.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-carrot": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-carrot.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-cauliflower": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-cauliflower.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-corn-on-the-cob": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-corn-on-the-cob.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-cucumber": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-cucumber.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-drumstick": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-drumstick.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-elephant-foot-yam": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-elephant-foot-yam.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-garlic": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-garlic.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-giant-taro": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-giant-taro.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-ginger": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-ginger.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-green-chilli": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-green-chilli.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-green-jackfruit": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-green-jackfruit.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-green-papaya": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-green-papaya.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-hyacinth-bean": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-hyacinth-bean.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-kohlrabi": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-kohlrabi.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-lotus-stem": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-lotus-stem.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-mushroom": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-mushroom.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-okra": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-okra.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-onion": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-onion.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-pointed-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-pointed-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-potato": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-potato.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-radish": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-radish.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-raw-banana": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-raw-banana.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-red-potato": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-red-potato.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-ridge-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-ridge-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-round-brinjal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-round-brinjal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-snake-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-snake-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-sponge-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-sponge-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-spring-onion": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-spring-onion.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-sweet-potato": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-sweet-potato.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-sweet-pumpkin": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-sweet-pumpkin.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-taro-corm": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-taro-corm.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-taro-stem": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-taro-stem.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-teasel-gourd": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-teasel-gourd.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-tomato": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-tomato.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-turnip": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-turnip.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-water-lily-stem": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-water-lily-stem.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-white-brinjal": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-white-brinjal.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "vegetables-yardlong-bean": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-yardlong-bean.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-basil-leaves": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-basil-leaves.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-bottle-gourd-leaves": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-bottle-gourd-leaves.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-celery": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-celery.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-coriander-leaves": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-coriander-leaves.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-curry-leaves": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-curry-leaves.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-drumstick-leaves": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-drumstick-leaves.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "leafy-greens-fenugreek-leaves": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-fenugreek-leaves.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
   }
 }
