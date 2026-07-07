@@ -23688,7 +23688,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-baby-toothpaste.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23730,7 +23734,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-baby-wipes.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23768,7 +23776,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-bib.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23806,7 +23818,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-bottle-brush.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23844,7 +23860,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-bottle-nipple.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23886,7 +23906,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-cotton-nappy.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23928,7 +23952,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-diaper-rash-cream.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -23966,7 +23994,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-feeding-bottle.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -24008,7 +24040,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-infant-formula.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -24046,7 +24082,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/baby-care-pacifier.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "👶",
       "seasonal": false,
       "seasonality": null,
@@ -24087,7 +24127,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-bird-seed.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🐾",
       "seasonal": false,
       "seasonality": null,
@@ -24128,7 +24172,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-cat-litter.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🐾",
       "seasonal": false,
       "seasonality": null,
@@ -24169,7 +24217,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-cat-shampoo.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🐾",
       "seasonal": false,
       "seasonality": null,
@@ -24210,7 +24262,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-dog-shampoo.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🐾",
       "seasonal": false,
       "seasonality": null,
