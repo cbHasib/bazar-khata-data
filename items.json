@@ -21789,7 +21789,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-mouthwash.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -21827,7 +21831,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-nail-cutter.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -21869,7 +21877,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-panty-liner.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -21911,7 +21923,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-perfume.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -21953,7 +21969,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-petroleum-jelly.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -21991,7 +22011,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-razor.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22033,7 +22057,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-sanitary-pad.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🩷",
       "seasonal": false,
       "seasonality": null,
@@ -22075,7 +22103,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-shampoo.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22117,7 +22149,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-shaving-cream.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22159,7 +22195,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-sunscreen.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22201,7 +22241,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-talcum-powder.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22239,7 +22283,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-toothbrush.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22281,7 +22329,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-toothpaste.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
@@ -22323,7 +22375,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-wet-wipes.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🪥",
       "seasonal": false,
       "seasonality": null,
