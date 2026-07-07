@@ -2738,5 +2738,60 @@
     "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-dog-shampoo.jpg",
     "license": "CC0",
     "attribution": "Bazar Khata"
+  },
+  "pet-care-dry-cat-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-dry-cat-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-dry-dog-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-dry-dog-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-fish-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-fish-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-kitten-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-kitten-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-pet-treats": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-pet-treats.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-pet-waste-bag": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-pet-waste-bag.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-puppy-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-puppy-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-wet-cat-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-wet-cat-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "pet-care-wet-dog-food": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pet-care-wet-dog-food.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "household-kitchen-aluminium-foil": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-aluminium-foil.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
+  },
+  "household-kitchen-baking-paper": {
+    "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-baking-paper.jpg",
+    "license": "CC0",
+    "attribution": "Bazar Khata"
   }
 }
