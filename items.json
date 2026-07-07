@@ -25389,7 +25389,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-rubber-band.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🏠",
       "seasonal": false,
       "seasonality": null,
@@ -25430,7 +25434,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-skewer.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🏠",
       "seasonal": false,
       "seasonality": null,
@@ -25471,7 +25479,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-toothpick.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🏠",
       "seasonal": false,
       "seasonality": null,
@@ -25512,7 +25524,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-water-filter-candle.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🏠",
       "seasonal": false,
       "seasonality": null,
@@ -25553,7 +25569,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-zip-bag.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🏠",
       "seasonal": false,
       "seasonality": null,
@@ -25594,7 +25614,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-adhesive-tape.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25635,7 +25659,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-ballpoint-pen.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "🖊️",
       "seasonal": false,
       "seasonality": null,
@@ -25676,7 +25704,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-calculator.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25717,7 +25749,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-drawing-book.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25758,7 +25794,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-envelope.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25799,7 +25839,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-eraser.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25840,7 +25884,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-glue.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25881,7 +25929,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-highlighter.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25922,7 +25974,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-marker.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -25963,7 +26019,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-notebook.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "📓",
       "seasonal": false,
       "seasonality": null,
@@ -26004,7 +26064,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-pencil.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -26045,7 +26109,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-printer-paper.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -26086,7 +26154,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-scissors.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✂️",
       "seasonal": false,
       "seasonality": null,
@@ -26127,7 +26199,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-sharpener.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -26168,7 +26244,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-staple-pin.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
@@ -26209,7 +26289,11 @@
       "defaultQuantity": 1,
       "averagePrice": null,
       "priceEstimate": null,
-      "image": null,
+      "image": {
+        "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-stapler.jpg",
+        "license": "CC0",
+        "attribution": "Bazar Khata"
+      },
       "emoji": "✏️",
       "seasonal": false,
       "seasonality": null,
