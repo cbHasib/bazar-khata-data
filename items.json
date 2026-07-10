@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "1.0.0",
-  "generatedAt": "2026-07-02T00:00:00.000Z",
+  "generatedAt": "2026-07-10T06:19:32.374Z",
   "items": [
     {
       "id": "5dea28ab-baf8-58ad-bb64-4ea6167afad4",
@@ -72,7 +72,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 160,
+        "currency": "BDT",
+        "quantity": 400,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/khaas-food-barley-flour-chatu-400-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-barley.jpg",
         "license": "CC0",
@@ -89,7 +99,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:31.554Z"
     },
     {
       "id": "66d4bf94-95b1-59a8-834d-8838bc5017d8",
@@ -116,7 +126,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 480,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aci-aroma-pure-basmati-rice-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-basmati-rice.jpg",
         "license": "CC0",
@@ -133,7 +153,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:32.681Z"
     },
     {
       "id": "5047df6f-6716-5e14-9b8c-9ae46f1e0d43",
@@ -160,7 +180,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 460,
+        "currency": "BDT",
+        "quantity": 3,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/finlay-brown-fibre-rice-3-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-brown-rice.jpg",
         "license": "CC0",
@@ -177,7 +207,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:33.978Z"
     },
     {
       "id": "2b20a8e7-a230-5003-99fc-cb41a53bb5da",
@@ -248,7 +278,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 149,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/chinigura-rice-premium-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-chinigura-rice.jpg",
         "license": "CC0",
@@ -265,7 +305,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:36.112Z"
     },
     {
       "id": "d2fbaaec-d9c4-5c33-8392-46582ead6425",
@@ -336,7 +376,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1250,
+        "currency": "BDT",
+        "quantity": 1.1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kelloggs-corn-flakes-original-breakfast-cereal-11-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-corn.jpg",
         "license": "CC0",
@@ -353,7 +403,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:38.311Z"
     },
     {
       "id": "29d798e3-7d18-5c9a-a629-be326353fece",
@@ -426,7 +476,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 120,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/farmers-gold-white-flattened-rice-sada-chira-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-flattened-rice.jpg",
         "license": "CC0",
@@ -443,7 +503,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:41.142Z"
     },
     {
       "id": "07c0a890-6223-55bb-a011-d3d019620bd8",
@@ -470,7 +530,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 342,
+        "currency": "BDT",
+        "quantity": 2,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-natural-kalijira-rice-2-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-kalijira-rice.jpg",
         "license": "CC0",
@@ -487,7 +557,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:42.406Z"
     },
     {
       "id": "e9e76948-d972-5612-8d93-725f89aa2634",
@@ -514,7 +584,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 800,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aci-pure-shugondhi-kataribhog-rice-5-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-kataribhog-rice.jpg",
         "license": "CC0",
@@ -531,7 +611,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:43.520Z"
     },
     {
       "id": "d3504d54-5585-5026-85de-b0658f59e777",
@@ -604,7 +684,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 999,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kelloggs-millet-muesli-breakfast-cereal-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-millet.jpg",
         "license": "CC0",
@@ -621,7 +711,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:46.907Z"
     },
     {
       "id": "1f9960be-0c7e-5a05-be70-ce5f7cf47840",
@@ -648,7 +738,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 439,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/miniket-rice-premium-boiled-50-gm-5-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-miniket-rice.jpg",
         "license": "CC0",
@@ -665,7 +765,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:48.219Z"
     },
     {
       "id": "f0eab5fc-58f0-50d5-b92e-81fc10630561",
@@ -692,7 +792,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 449,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/nazirshail-rice-premium-half-boiled-50-gm-5-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-nazirshail-rice.jpg",
         "license": "CC0",
@@ -709,7 +819,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:50.674Z"
     },
     {
       "id": "29389d4f-9d4d-51d5-89ec-db7ac75dc1e4",
@@ -736,7 +846,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 65,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/paijam-rice-boiled-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-paijam-rice.jpg",
         "license": "CC0",
@@ -753,7 +873,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:52.219Z"
     },
     {
       "id": "b9011e90-7d11-5564-95a5-d1b4a78e0dd1",
@@ -871,7 +991,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 75,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pran-puffed-rice-muri-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-puffed-rice.jpg",
         "license": "CC0",
@@ -888,7 +1018,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:56.171Z"
     },
     {
       "id": "0aab206d-fad1-58d5-a694-8ddc08c0f8ad",
@@ -915,7 +1045,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 150,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/finlay-red-fibre-rice-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-red-rice.jpg",
         "license": "CC0",
@@ -932,7 +1072,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:57.549Z"
     },
     {
       "id": "1b8be210-707f-5f5f-8383-fe9a48fc579b",
@@ -960,7 +1100,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 149,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/chinigura-rice-premium-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-rice.jpg",
         "license": "CC0",
@@ -977,7 +1127,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:06:58.766Z"
     },
     {
       "id": "a8bec611-1199-5dc8-8ded-4e0fb11d4278",
@@ -1048,7 +1198,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 65,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ekata-sago-dana-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-sago.jpg",
         "license": "CC0",
@@ -1065,7 +1225,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:01.137Z"
     },
     {
       "id": "47363647-03a0-5749-acc7-0ccf7d098d24",
@@ -1136,7 +1296,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 140,
+        "currency": "BDT",
+        "quantity": 2,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/teer-whole-wheat-atta-2-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/rice-grains-wheat.jpg",
         "license": "CC0",
@@ -1153,7 +1323,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:03.822Z"
     },
     {
       "id": "2734ee6d-0edb-5dc6-8a21-5119b40ce6c6",
@@ -1180,7 +1350,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bread-crumbs-loose-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-bread-crumbs.jpg",
         "license": "CC0",
@@ -1197,7 +1377,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:05.067Z"
     },
     {
       "id": "64863dbd-3644-5236-abcf-a109d712d7a1",
@@ -1224,7 +1404,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 69,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/chick-peas-powder-booter-beshon-450-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-chickpea-flour.jpg",
         "license": "CC0",
@@ -1241,7 +1431,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:06.217Z"
     },
     {
       "id": "b5581e20-bbdb-59e5-8e07-077a227416f8",
@@ -1268,7 +1458,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 60,
+        "currency": "BDT",
+        "quantity": 300,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/doodles-chow-mein-noodles-300-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-chow-mein-noodles.jpg",
         "license": "CC0",
@@ -1285,7 +1485,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:07.697Z"
     },
     {
       "id": "533e1e4c-b1c4-5503-848f-ae9e17fc5a23",
@@ -1312,7 +1512,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 160,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/saad-corn-flour-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-corn-flour.jpg",
         "license": "CC0",
@@ -1329,7 +1539,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:08.933Z"
     },
     {
       "id": "8e877e71-9852-561d-a223-7e9a3bf54cbb",
@@ -1400,7 +1610,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 20,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/cocola-egg-noodles-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-egg-noodles.jpg",
         "license": "CC0",
@@ -1417,7 +1637,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:11.289Z"
     },
     {
       "id": "f6dec460-be4a-588d-a20b-19d2f2fc1869",
@@ -1488,7 +1708,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 170,
+        "currency": "BDT",
+        "quantity": 496,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pran-mr-noodles-8-pcs-496-gm-5",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-instant-noodles.jpg",
         "license": "CC0",
@@ -1505,7 +1735,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:14.345Z"
     },
     {
       "id": "be0f2a9f-b3dd-5633-b645-34de35176988",
@@ -1620,7 +1850,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 85,
+        "currency": "BDT",
+        "quantity": 400,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kolson-macaroni-bamboo-400-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-macaroni.jpg",
         "license": "CC0",
@@ -1637,7 +1877,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:17.678Z"
     },
     {
       "id": "b6e741f7-919e-5fe8-8d42-87176aa12baa",
@@ -1664,7 +1904,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1200,
+        "currency": "BDT",
+        "quantity": 1.5,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kelloggs-oats-breakfast-cereal-15-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-oats.jpg",
         "license": "CC0",
@@ -1681,7 +1931,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:20.262Z"
     },
     {
       "id": "eb727bc9-9bea-5e32-a37f-573dab27cddb",
@@ -1708,7 +1958,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 85,
+        "currency": "BDT",
+        "quantity": 400,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kolson-macaroni-screw-400-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-pasta.jpg",
         "license": "CC0",
@@ -1725,7 +1985,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:21.480Z"
     },
     {
       "id": "eb579030-1011-55ab-91e4-ed2ba5e1b4cb",
@@ -1798,7 +2058,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 110,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/provati-rice-flour-1kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-rice-flour.jpg",
         "license": "CC0",
@@ -1815,7 +2085,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:25.737Z"
     },
     {
       "id": "1aa535eb-a709-5254-bddb-125bbf049030",
@@ -1843,7 +2113,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 48,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/teer-semolina-suji-pack-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-semolina.jpg",
         "license": "CC0",
@@ -1860,7 +2140,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:26.815Z"
     },
     {
       "id": "12726eaf-527b-58ae-a0aa-41d9fc97af3d",
@@ -1887,7 +2167,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 449,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/barilla-spaghetti-n5-pasta-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-spaghetti.jpg",
         "license": "CC0",
@@ -1904,7 +2194,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:27.779Z"
     },
     {
       "id": "27bb4056-e948-5360-9d39-4e1e663d2021",
@@ -1932,7 +2222,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kolson-cock-vermicelli-semai-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-vermicelli.jpg",
         "license": "CC0",
@@ -1949,7 +2249,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:29.094Z"
     },
     {
       "id": "fff04624-c6a3-5c53-b18a-2d19601a8e7a",
@@ -1978,7 +2278,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 140,
+        "currency": "BDT",
+        "quantity": 2,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/teer-whole-wheat-atta-2-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/flour-noodles-whole-wheat-flour.jpg",
         "license": "CC0",
@@ -1995,7 +2305,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:31.421Z"
     },
     {
       "id": "4046c637-fd43-5b5b-9b72-5be409e5c59e",
@@ -2114,7 +2424,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 69,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/chick-peas-powder-booter-beshon-450-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-chickpea.jpg",
         "license": "CC0",
@@ -2131,7 +2451,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:35.572Z"
     },
     {
       "id": "b45c5908-6299-5e15-a850-3f24e66bf542",
@@ -2378,7 +2698,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 125,
+        "currency": "BDT",
+        "quantity": 400,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/nana-green-peas-400-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-green-peas.jpg",
         "license": "CC0",
@@ -2395,7 +2725,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:45.260Z"
     },
     {
       "id": "2ca1b6cd-7635-5d7c-b776-4c065f0555d5",
@@ -2422,7 +2752,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 129,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kidney-bean-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-kidney-bean.jpg",
         "license": "CC0",
@@ -2439,7 +2779,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:46.320Z"
     },
     {
       "id": "697c550b-05e4-5323-aefd-bc63bd70aeed",
@@ -2466,7 +2806,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 75,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mixed-dal-pack-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-mixed-dal.jpg",
         "license": "CC0",
@@ -2483,7 +2833,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:48.234Z"
     },
     {
       "id": "9bbb24b7-8e9e-5c8a-afca-a1c392e1e566",
@@ -2600,7 +2950,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 130,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/teer-red-lentil-moshur-dal-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-red-lentil.jpg",
         "license": "CC0",
@@ -2617,7 +2977,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:51.940Z"
     },
     {
       "id": "0877a9e3-5e00-5473-a40f-e5b6275d72f5",
@@ -2688,7 +3048,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 319,
+        "currency": "BDT",
+        "quantity": 165,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/nautilus-lite-tuna-chunk-soybean-oil-165-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/pulses-legumes-soybean.jpg",
         "license": "CC0",
@@ -2705,7 +3075,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:07:54.116Z"
     },
     {
       "id": "2c42d0eb-19cb-5ba9-8e3b-1d9a876ce8ab",
@@ -2908,7 +3278,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 269,
+        "currency": "BDT",
+        "quantity": 552,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/hosen-bamboo-shoot-552-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-bamboo-shoot.jpg",
         "license": "CC0",
@@ -2925,7 +3305,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:01.884Z"
     },
     {
       "id": "4a2bb031-cde1-561e-b5ff-61407acb5f36",
@@ -3035,7 +3415,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/beetroot-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-beetroot.jpg",
         "license": "CC0",
@@ -3052,7 +3442,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:06.290Z"
     },
     {
       "id": "3369b8dc-e090-59c5-b8a2-8bc045100d1a",
@@ -3167,7 +3557,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/long-brinjal-black-net-weight-20-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-brinjal.jpg",
         "license": "CC0",
@@ -3184,7 +3584,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:09.491Z"
     },
     {
       "id": "77639511-567c-5603-a49c-a0b1a02b4f46",
@@ -3298,7 +3698,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 299,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/watteh-greens-baby-cabbage-microgreen-50-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-cabbage.jpg",
         "license": "CC0",
@@ -3315,7 +3725,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:12.778Z"
     },
     {
       "id": "0a888417-61b1-5968-8a05-4188233a1791",
@@ -3341,7 +3751,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 89,
+        "currency": "BDT",
+        "quantity": 300,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/green-capsicum-300-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-capsicum.jpg",
         "license": "CC0",
@@ -3358,7 +3778,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:13.772Z"
     },
     {
       "id": "7e0a2e38-5b53-518d-b566-2156d23f0939",
@@ -3384,7 +3804,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 49,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/carrot-deshi-net-weight-20-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-carrot.jpg",
         "license": "CC0",
@@ -3401,7 +3831,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:14.888Z"
     },
     {
       "id": "0f194bbb-0c5f-57dc-9210-dc5ef4255e40",
@@ -3429,7 +3859,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 119,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fulkopi-cauliflower-processed-10-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-cauliflower.jpg",
         "license": "CC0",
@@ -3446,7 +3886,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:15.821Z"
     },
     {
       "id": "082b6a81-d683-5765-9e9a-916978c0c93d",
@@ -3516,7 +3956,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 39,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/deshi-cucumber-net-weight-20-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-cucumber.jpg",
         "license": "CC0",
@@ -3533,7 +3983,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:18.498Z"
     },
     {
       "id": "3001059c-24a7-5c7a-97b9-dfb378ec004e",
@@ -3559,7 +4009,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 99,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/drumstick-sajina-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-drumstick.jpg",
         "license": "CC0",
@@ -3576,7 +4036,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:19.435Z"
     },
     {
       "id": "746c4d1b-5b53-5466-88a8-ea368617f0c2",
@@ -3647,7 +4107,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 75,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/garlic-roshun-premium-500-gm-2",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-garlic.jpg",
         "license": "CC0",
@@ -3664,7 +4134,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:21.557Z"
     },
     {
       "id": "103671d7-0861-51ea-8a93-5a2af84b1b66",
@@ -3733,7 +4203,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 89,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ada-imported-ginger-25-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-ginger.jpg",
         "license": "CC0",
@@ -3750,7 +4230,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:23.514Z"
     },
     {
       "id": "94e7a5a1-9044-5380-9dcc-f07daf6137c4",
@@ -3778,7 +4258,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 29,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kacha-morich-green-chilli-12-gm-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-green-chilli.jpg",
         "license": "CC0",
@@ -3795,7 +4285,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:24.748Z"
     },
     {
       "id": "545349d9-c09d-5231-b169-a81a1673bea7",
@@ -4036,7 +4526,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 182,
+        "currency": "BDT",
+        "quantity": 425,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bests-mushroom-choice-whole-tin-425-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-mushroom.jpg",
         "license": "CC0",
@@ -4053,7 +4553,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:31.779Z"
     },
     {
       "id": "4bb82486-80c4-5d89-8bef-e9eead435c2a",
@@ -4127,7 +4627,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/onion-local-1-kg-2",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-onion.jpg",
         "license": "CC0",
@@ -4144,7 +4654,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:33.677Z"
     },
     {
       "id": "8c82af10-939b-5604-93da-21e4fa70500d",
@@ -4214,7 +4724,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 26,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/potato-alu-1-kg-2",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-potato.jpg",
         "license": "CC0",
@@ -4231,7 +4751,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:35.698Z"
     },
     {
       "id": "85ab857a-fb70-5637-ba3f-2af7149bbec3",
@@ -4257,7 +4777,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 35,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radish-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-radish.jpg",
         "license": "CC0",
@@ -4274,7 +4804,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:36.610Z"
     },
     {
       "id": "16939882-ea7e-57cf-bfb6-33e93256b6ec",
@@ -4345,7 +4875,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 25,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/potato-lal-alu-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-red-potato.jpg",
         "license": "CC0",
@@ -4362,7 +4902,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:38.895Z"
     },
     {
       "id": "19caf610-c1ad-5393-8845-1865efbe5215",
@@ -4602,7 +5142,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 39,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/sweet-potato-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-sweet-potato.jpg",
         "license": "CC0",
@@ -4619,7 +5169,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:46.147Z"
     },
     {
       "id": "b2fad168-712d-5c89-83c5-b997c86f7191",
@@ -4647,7 +5197,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/sweet-pumpkin-1-slice",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-sweet-pumpkin.jpg",
         "license": "CC0",
@@ -4664,7 +5224,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:47.502Z"
     },
     {
       "id": "7f5e9920-60a5-5b44-9309-7535227511e4",
@@ -4818,7 +5378,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 320,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pran-tomato-sauce-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/vegetables-tomato.jpg",
         "license": "CC0",
@@ -4835,7 +5405,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:08:51.783Z"
     },
     {
       "id": "adcc0709-add5-55f8-b68c-879468f5cc88",
@@ -5726,7 +6296,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "bundle",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/misti-kumra-shak-sweet-pumpkin-leaves-1-bundle",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-pumpkin-leaves.jpg",
         "license": "CC0",
@@ -5743,7 +6323,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:19.253Z"
     },
     {
       "id": "0485c10c-3fdb-50a9-b7f5-a0c3d420ff02",
@@ -5901,7 +6481,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 19,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "bundle",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/lal-shak-1-bundle",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-spinach.jpg",
         "license": "CC0",
@@ -5918,7 +6508,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:23.921Z"
     },
     {
       "id": "af780188-2a29-51a1-999c-019958d13f99",
@@ -5987,7 +6577,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 19,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "bundle",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/water-spinach-1-bundle",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/leafy-greens-water-spinach.jpg",
         "license": "CC0",
@@ -6004,7 +6604,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:26.516Z"
     },
     {
       "id": "459ec163-7404-5ad0-a088-588fc61684f3",
@@ -6124,7 +6724,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 519,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/green-apple-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-apple.jpg",
         "license": "CC0",
@@ -6141,7 +6751,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:29.757Z"
     },
     {
       "id": "fcfe99bb-1a65-5c94-9d61-ce22df0d54e0",
@@ -6167,7 +6777,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 249,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fiama-gel-bar-soap-peach-avocado-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-avocado.jpg",
         "license": "CC0",
@@ -6184,7 +6804,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:30.729Z"
     },
     {
       "id": "6a19e3ee-3dbf-529f-92a1-0a5253f54974",
@@ -6211,7 +6831,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 650,
+        "currency": "BDT",
+        "quantity": 42,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/gerber-snacks-puffs-banana-42-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-banana.jpg",
         "license": "CC0",
@@ -6228,7 +6858,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:31.859Z"
     },
     {
       "id": "133db217-29ab-5801-a7cb-46a42c398aba",
@@ -6297,7 +6927,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 160,
+        "currency": "BDT",
+        "quantity": 80,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/foster-clarks-cherry-jelly-80-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-cherry.jpg",
         "license": "CC0",
@@ -6314,7 +6954,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:33.922Z"
     },
     {
       "id": "ce87633e-f3a5-5954-a6b0-01252518c68b",
@@ -6426,7 +7066,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 759,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/medjool-dates-khejur-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-dates.jpg",
         "license": "CC0",
@@ -6443,7 +7093,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:37.532Z"
     },
     {
       "id": "ea2b7562-39f5-543c-828c-f0d1835be07a",
@@ -6469,7 +7119,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 229,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/dragon-fruit-local-net-weight-100-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-dragon-fruit.jpg",
         "license": "CC0",
@@ -6486,7 +7146,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:38.877Z"
     },
     {
       "id": "6766603b-6383-5141-87fb-bd7d6a1ef754",
@@ -6648,7 +7308,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 299,
+        "currency": "BDT",
+        "quantity": 3,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mango-gopalbhog-50-gm-3-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-gopalbhog-mango.jpg",
         "license": "CC0",
@@ -6672,7 +7342,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:44.009Z"
     },
     {
       "id": "bba4aea0-978f-578d-82e3-9e8bc0a6afd1",
@@ -6698,7 +7368,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 169,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/green-grapes-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-grapes.jpg",
         "license": "CC0",
@@ -6715,7 +7395,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:45.290Z"
     },
     {
       "id": "69256775-8e89-52c1-8075-0ed9edf9d452",
@@ -6784,7 +7464,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 129,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/guava-thai-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-guava.jpg",
         "license": "CC0",
@@ -6801,7 +7491,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:47.593Z"
     },
     {
       "id": "7f9dda42-389e-565f-9c6f-8d0ea63820e3",
@@ -7120,7 +7810,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 80,
+        "currency": "BDT",
+        "quantity": 150,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/meril-milk-kiwi-soap-bar-150-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-kiwi.jpg",
         "license": "CC0",
@@ -7137,7 +7837,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:56.250Z"
     },
     {
       "id": "687ee490-8b57-5058-a835-6d2a78a7ecc3",
@@ -7163,7 +7863,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 329,
+        "currency": "BDT",
+        "quantity": 3,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mango-langra-50-gm-3-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-langra-mango.jpg",
         "license": "CC0",
@@ -7187,7 +7897,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:57.882Z"
     },
     {
       "id": "47b31355-abb7-59ad-a3eb-b4f076f57b36",
@@ -7213,7 +7923,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 40,
+        "currency": "BDT",
+        "quantity": 300,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/trix-lemon-dish-washing-bar-300-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-lemon.jpg",
         "license": "CC0",
@@ -7230,7 +7950,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:09:59.227Z"
     },
     {
       "id": "0951d465-950b-5898-a153-ae886a817bb3",
@@ -7256,7 +7976,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 20,
+        "currency": "BDT",
+        "quantity": 30,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bombay-sweets-nachoz-chutney-lime-30-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-lime.jpg",
         "license": "CC0",
@@ -7273,7 +8003,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:00.509Z"
     },
     {
       "id": "68ff661d-5d0d-52e2-a420-f6b678560bf6",
@@ -7299,7 +8029,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 680,
+        "currency": "BDT",
+        "quantity": 565,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/hosen-lychee-565-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-lychee.jpg",
         "license": "CC0",
@@ -7323,7 +8063,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:01.584Z"
     },
     {
       "id": "2de42451-ab4d-58a0-b94b-4090ad9dd7bc",
@@ -7349,7 +8089,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 840,
+        "currency": "BDT",
+        "quantity": 750,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/foster-clarks-mandarin-instant-drink-powder-750-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-mandarin.jpg",
         "license": "CC0",
@@ -7366,7 +8116,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:02.590Z"
     },
     {
       "id": "c8d8b64d-e388-5cf9-aca9-70fd61bc4a39",
@@ -7393,7 +8143,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 329,
+        "currency": "BDT",
+        "quantity": 3,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mango-aamropali-satkhira-50-gm-3-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-mango.jpg",
         "license": "CC0",
@@ -7418,7 +8178,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:03.989Z"
     },
     {
       "id": "b2596156-bedd-579c-8bf6-f769abb31e4c",
@@ -7494,7 +8254,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 389,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/orange-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-orange.jpg",
         "license": "CC0",
@@ -7511,7 +8281,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:06.096Z"
     },
     {
       "id": "d18932b1-4c95-5700-8fba-b1ef3332109c",
@@ -7579,7 +8349,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 249,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fiama-gel-bar-soap-peach-avocado-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-peach.jpg",
         "license": "CC0",
@@ -7596,7 +8376,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:09.171Z"
     },
     {
       "id": "8e802771-af4e-5f69-9f12-9af012d99efd",
@@ -7622,7 +8402,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 319,
+        "currency": "BDT",
+        "quantity": 110,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/heinz-pear-banana-4-months-110-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-pear.jpg",
         "license": "CC0",
@@ -7639,7 +8429,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:10.252Z"
     },
     {
       "id": "f5bd9f5e-f623-5907-860d-1d2a4dbd4d38",
@@ -7750,7 +8540,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 300,
+        "currency": "BDT",
+        "quantity": 220,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/blossoms-dried-mixed-plum-220-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-plum.jpg",
         "license": "CC0",
@@ -7767,7 +8567,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:13.378Z"
     },
     {
       "id": "d5af840d-054a-53a6-afdd-6e6d8296b429",
@@ -7793,7 +8593,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 439,
+        "currency": "BDT",
+        "quantity": 300,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pomegranate-peeled-300-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-pomegranate.jpg",
         "license": "CC0",
@@ -7810,7 +8620,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:14.820Z"
     },
     {
       "id": "a5428023-4352-53bc-bbc5-a26e1b935f4f",
@@ -7878,7 +8688,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 89,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/raisins-kishmish-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-raisins.jpg",
         "license": "CC0",
@@ -7895,7 +8715,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:17.401Z"
     },
     {
       "id": "77d80ef0-2450-523f-8c1e-0f7caf824a86",
@@ -8058,7 +8878,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 189,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/sofeda-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-sapodilla.jpg",
         "license": "CC0",
@@ -8075,7 +8905,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:22.063Z"
     },
     {
       "id": "56b290b1-6ae2-586d-a172-587b0ba940f1",
@@ -8144,7 +8974,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 210,
+        "currency": "BDT",
+        "quantity": 7,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/lipsilk-lip-balm-strawberry-7-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-strawberry.jpg",
         "license": "CC0",
@@ -8161,7 +9001,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:24.542Z"
     },
     {
       "id": "fd8e1cb7-3672-5294-88ab-64c4e9b377dc",
@@ -8230,7 +9070,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 55,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/tamarind-peeled-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-tamarind.jpg",
         "license": "CC0",
@@ -8247,7 +9097,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:26.859Z"
     },
     {
       "id": "42219054-2068-5e0e-a1cc-4f02df8ecc2a",
@@ -8325,7 +9175,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 90,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/farmers-gold-wood-apple-powder-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fruits-wood-apple.jpg",
         "license": "CC0",
@@ -8342,7 +9202,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:29.221Z"
     },
     {
       "id": "a00b9b5a-7e77-587b-a0ad-745a0d0051fb",
@@ -8368,7 +9228,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 65,
+        "currency": "BDT",
+        "quantity": 48,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/odonil-air-freshener-block-lavender-meadows-৫০-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-air.jpg",
         "license": "CC0",
@@ -8385,7 +9255,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:31.874Z"
     },
     {
       "id": "97d3f73f-1229-5832-801d-d87437654e6c",
@@ -8455,7 +9325,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 190,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pqs-baila-fish-processed-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-baila.jpg",
         "license": "CC0",
@@ -8472,7 +9352,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:33.907Z"
     },
     {
       "id": "8c0f8998-2c23-5670-8b33-7344e4454d2f",
@@ -8498,7 +9378,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 285,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pqs-chikra-baim-fish-processed-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-baim.jpg",
         "license": "CC0",
@@ -8515,7 +9405,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:35.121Z"
     },
     {
       "id": "48fbb67a-5115-54db-a8b0-7d008009cc94",
@@ -8541,7 +9431,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 190,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pqs-bata-fish-processed-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-bata.jpg",
         "license": "CC0",
@@ -8558,7 +9458,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:36.374Z"
     },
     {
       "id": "e439909c-1bce-58b7-b7ab-ea7a3561b527",
@@ -8627,7 +9527,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 869,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/boal-fish-after-cutting-family-cut-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-boal.jpg",
         "license": "CC0",
@@ -8644,7 +9554,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:39.302Z"
     },
     {
       "id": "919f151c-085f-5b1a-a4d0-9b9c10145505",
@@ -8671,7 +9581,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 689,
+        "currency": "BDT",
+        "quantity": 1.5,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/katla-mach-mas-steak-chinese-cut-net-weight-50-gm-15-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-catla.jpg",
         "license": "CC0",
@@ -8688,7 +9608,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:40.345Z"
     },
     {
       "id": "8c26e291-0e18-5b6c-ad9b-ee97debe40d7",
@@ -8714,7 +9634,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 460,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fresh-sea-fish-sardine-chapila-50-gm-16-18-pcs-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-chapila.jpg",
         "license": "CC0",
@@ -8731,7 +9661,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:41.253Z"
     },
     {
       "id": "728a26d9-1d29-5487-b633-ce7ea5ab360c",
@@ -8843,7 +9773,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 340,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kazi-farms-kitchen-churi-dried-fish-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-churi.jpg",
         "license": "CC0",
@@ -8860,7 +9800,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:45.098Z"
     },
     {
       "id": "c82514ab-8cc4-5e22-b244-19e35945636f",
@@ -8886,7 +9826,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 340,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kazi-farms-kitchen-churi-dried-fish-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-churi-dried-fish.jpg",
         "license": "CC0",
@@ -8903,7 +9853,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:46.440Z"
     },
     {
       "id": "f8663503-6de7-5cb8-a2a7-eae04f5df680",
@@ -8972,7 +9922,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1790,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/food-network-whole-round-soft-shell-crab-large-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-crab.jpg",
         "license": "CC0",
@@ -8989,7 +9949,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:48.671Z"
     },
     {
       "id": "0bfb48ec-c59c-5bb1-9c6b-f5c4192b4cec",
@@ -9188,7 +10148,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 369,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/grass-carp-fish-after-cutting-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-grass-carp.jpg",
         "license": "CC0",
@@ -9205,7 +10175,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:54.537Z"
     },
     {
       "id": "1595a558-ae3e-5392-b77e-8a01d692491a",
@@ -9231,7 +10201,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 389,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/gulsha-fish-medium-net-weight-50-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-gulsha.jpg",
         "license": "CC0",
@@ -9248,7 +10228,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:10:55.355Z"
     },
     {
       "id": "7548cda8-9d87-59ec-aa86-dc78a581ecb8",
@@ -9404,7 +10384,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 180,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/orgin-dried-kachki-fish-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-kachki.jpg",
         "license": "CC0",
@@ -9421,7 +10411,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:01.091Z"
     },
     {
       "id": "16e8de19-569e-551e-b9b9-c717d505aea3",
@@ -9533,7 +10523,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 369,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/koi-fish-processed-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-koi.jpg",
         "license": "CC0",
@@ -9550,7 +10550,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:05.268Z"
     },
     {
       "id": "3ecff527-f4b7-5c50-bd75-8325f2784dff",
@@ -9581,7 +10581,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1039,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/koral-small-family-cut-net-weight-20gm-1-kg-3",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-koral.jpg",
         "license": "CC0",
@@ -9598,7 +10608,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:06.160Z"
     },
     {
       "id": "dae49d2a-06da-5af2-800d-5f93648c401e",
@@ -9624,7 +10634,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 195,
+        "currency": "BDT",
+        "quantity": 150,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bpm-loitta-shutki-150-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-loitta.jpg",
         "license": "CC0",
@@ -9641,7 +10661,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:07.158Z"
     },
     {
       "id": "426a9a58-c0c4-527d-abbe-a4d00d5b2eef",
@@ -9667,7 +10687,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 240,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kazi-farms-kitchen-loitta-dried-fish-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-loitta-dried-fish.jpg",
         "license": "CC0",
@@ -9684,7 +10714,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:08.458Z"
     },
     {
       "id": "a9346113-2a92-5b97-9294-aaffcdaf10fa",
@@ -9710,7 +10740,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1969,
+        "currency": "BDT",
+        "quantity": 3,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/smartheart-cat-food-adult-mackerel-flavor-3-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-mackerel.jpg",
         "license": "CC0",
@@ -9727,7 +10767,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:09.402Z"
     },
     {
       "id": "355f8707-0a86-522a-962a-0e3a9b3dbef8",
@@ -9753,7 +10793,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 399,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/magur-fish-mas-mach-processed-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-magur.jpg",
         "license": "CC0",
@@ -9770,7 +10820,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:10.824Z"
     },
     {
       "id": "4a1eed23-32a1-5c2f-8a12-b5d57e467ea1",
@@ -9796,7 +10846,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 169,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/deshi-mola-fish-mas-mach-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-mola.jpg",
         "license": "CC0",
@@ -9813,7 +10873,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:11.925Z"
     },
     {
       "id": "ba46e056-5016-5943-9c57-a88557284289",
@@ -9882,7 +10942,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 199,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pabda-fish-30-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-pabda.jpg",
         "license": "CC0",
@@ -9899,7 +10969,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:13.768Z"
     },
     {
       "id": "cb1e6882-1d05-515e-891d-ec8d99961637",
@@ -9926,7 +10996,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 279,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/deshi-pangas-after-cutting-net-weight-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-pangas.jpg",
         "license": "CC0",
@@ -9943,7 +11023,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:14.811Z"
     },
     {
       "id": "203e3d14-f149-59b2-9d66-2ddfbca40300",
@@ -9969,7 +11049,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 259,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/poa-fish-30-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-poa.jpg",
         "license": "CC0",
@@ -9986,7 +11076,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:15.768Z"
     },
     {
       "id": "e10e39b1-218d-5c5b-b49e-4b17a348b217",
@@ -10142,7 +11232,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 560,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bengal-meat-rohu-fish-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-rohu.jpg",
         "license": "CC0",
@@ -10159,7 +11259,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:19.602Z"
     },
     {
       "id": "3c7e1f5e-98b5-5075-b8c0-41ff76cd05b4",
@@ -10185,7 +11285,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 175,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/rupchanda-premium-chinigura-chal-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-rupchanda.jpg",
         "license": "CC0",
@@ -10202,7 +11312,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:20.532Z"
     },
     {
       "id": "bb597e09-b3ad-500e-8635-7c3add0ec42c",
@@ -10228,7 +11338,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 859,
+        "currency": "BDT",
+        "quantity": 1.5,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/jungle-adult-cat-food-salmon-15-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-salmon.jpg",
         "license": "CC0",
@@ -10245,7 +11365,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:21.465Z"
     },
     {
       "id": "afb6f75f-eb37-5f83-9591-10b6f7bc688e",
@@ -10271,7 +11391,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 99,
+        "currency": "BDT",
+        "quantity": 85,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/smartheart-adult-cat-food-sardine-chicken-rice-85-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-sardine.jpg",
         "license": "CC0",
@@ -10288,7 +11418,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:22.716Z"
     },
     {
       "id": "3283e7ea-5ba2-54fc-8c90-6099e3a32dbd",
@@ -10314,7 +11444,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 179,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/sarputi-mas-mach-processed-fish-500-gm-2-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-sarputi.jpg",
         "license": "CC0",
@@ -10331,7 +11471,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:23.873Z"
     },
     {
       "id": "59aa2449-a16a-5914-b60a-549466db16c0",
@@ -10357,7 +11497,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 299,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/shing-fish-after-cutting-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-shing.jpg",
         "license": "CC0",
@@ -10374,7 +11524,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:25.023Z"
     },
     {
       "id": "1f8e116d-caac-5950-91a2-a41e3ed898f8",
@@ -10400,7 +11550,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 849,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/shol-fish-processed-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-shol.jpg",
         "license": "CC0",
@@ -10417,7 +11577,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:26.624Z"
     },
     {
       "id": "330b9688-8fe3-5d92-8a08-298e37423a13",
@@ -10443,7 +11603,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 260,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kazi-farms-kitchen-shrimp-small-dried-fish-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-shrimp-dried-fish.jpg",
         "license": "CC0",
@@ -10460,7 +11630,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:27.845Z"
     },
     {
       "id": "5064e2d8-f680-55f5-8c7f-f3340cc8fafc",
@@ -10486,7 +11656,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 289,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/silver-carp-fish-after-cutting-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-silver-carp.jpg",
         "license": "CC0",
@@ -10503,7 +11683,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:28.857Z"
     },
     {
       "id": "23e8dc36-d501-510d-a030-2f20c5aff572",
@@ -10531,7 +11711,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 260,
+        "currency": "BDT",
+        "quantity": 125,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kazi-farms-kitchen-shrimp-small-dried-fish-125-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-small-shrimp.jpg",
         "license": "CC0",
@@ -10548,7 +11738,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:29.984Z"
     },
     {
       "id": "25cb9abc-3854-5c77-a323-da9c2d4b537d",
@@ -10574,7 +11764,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 680,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fresh-sea-fish-squid-50-gm-20-40-pcs-1kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-squid.jpg",
         "license": "CC0",
@@ -10591,7 +11791,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:30.861Z"
     },
     {
       "id": "fd754e3c-fbfc-5e34-ad84-95597abd0a53",
@@ -10617,7 +11817,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 200,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/taki-fish-processed-30-gm-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-taki.jpg",
         "license": "CC0",
@@ -10634,7 +11844,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:31.801Z"
     },
     {
       "id": "43d8f3fd-1421-5540-bb2b-eb3e13ced9fc",
@@ -10703,7 +11913,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 279,
+        "currency": "BDT",
+        "quantity": 400,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/tengra-fish-deshi-400-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-tengra.jpg",
         "license": "CC0",
@@ -10720,7 +11940,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:33.476Z"
     },
     {
       "id": "69b5087d-2d5d-56e8-ad1c-1f991a5eb3b0",
@@ -10790,7 +12010,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 429,
+        "currency": "BDT",
+        "quantity": 165,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/nautilus-lite-sandwich-tuna-in-spring-water-185gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/fish-seafood-tuna.jpg",
         "license": "CC0",
@@ -10807,7 +12037,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:35.701Z"
     },
     {
       "id": "7cd14b85-2c30-5d9a-91c7-63656c148ed1",
@@ -10835,7 +12065,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 799,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/beef-bone-in-50-gm-1-kg-2",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-beef.jpg",
         "license": "CC0",
@@ -10852,7 +12092,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:36.821Z"
     },
     {
       "id": "7a02f293-3c96-55f9-80d2-8b8d53be5786",
@@ -10878,7 +12118,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 429,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/cow-lever-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-beef-liver.jpg",
         "license": "CC0",
@@ -10895,7 +12145,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:38.040Z"
     },
     {
       "id": "9f5a613e-05cd-5504-83e2-08ec7c6056ed",
@@ -10964,7 +12214,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 499,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/beef-tripe-vuri-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-beef-tripe.jpg",
         "license": "CC0",
@@ -10981,7 +12241,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:40.535Z"
     },
     {
       "id": "1cd23361-7761-541f-b176-e18502bf17cf",
@@ -11050,7 +12310,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 619,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/beef-bone-less-500-gm-1",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-boneless-beef.jpg",
         "license": "CC0",
@@ -11067,7 +12337,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:43.115Z"
     },
     {
       "id": "125e6c8b-5493-5b95-8d63-9956abffd097",
@@ -11094,7 +12364,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 289,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/whole-broiler-chicken-skin-on-net-weight-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-broiler-chicken.jpg",
         "license": "CC0",
@@ -11111,7 +12391,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:44.842Z"
     },
     {
       "id": "0fc77694-4a24-5db4-94cb-1d5c97f22e53",
@@ -11137,7 +12417,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 599,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/broiler-chicken-breast-boneless-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-chicken-breast.jpg",
         "license": "CC0",
@@ -11154,7 +12444,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:45.953Z"
     },
     {
       "id": "f7d932a4-eee0-5859-9302-c850c06cc2bb",
@@ -11180,7 +12470,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 489,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/broiler-chicken-leg-skin-on-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-chicken-leg.jpg",
         "license": "CC0",
@@ -11197,7 +12497,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:48.157Z"
     },
     {
       "id": "c4afee10-fdb0-5c68-8aea-f53afe72ec9b",
@@ -11223,7 +12523,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 239,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/chicken-liver-gizzard-mix-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-chicken-liver.jpg",
         "license": "CC0",
@@ -11240,7 +12550,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:49.349Z"
     },
     {
       "id": "6b97091f-6d7d-597a-af0d-dba9c187ab52",
@@ -11311,7 +12621,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 799,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/beijing-duck-meat-after-cutting-net-weight-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-duck.jpg",
         "license": "CC0",
@@ -11328,7 +12648,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:51.724Z"
     },
     {
       "id": "2878acc1-7750-57d4-b837-be879ecfbdbb",
@@ -11442,7 +12762,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 639,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mutton-head-meat-regular-net-weight-50-gm-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-mutton.jpg",
         "license": "CC0",
@@ -11459,7 +12789,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:11:55.319Z"
     },
     {
       "id": "d37d2957-37bc-5321-a898-fb07157342bd",
@@ -11657,7 +12987,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1150,
+        "currency": "BDT",
+        "quantity": 2,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/lara-cat-food-turkey-chicken-2-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/meat-poultry-turkey.jpg",
         "license": "CC0",
@@ -11674,7 +13014,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:01.155Z"
     },
     {
       "id": "811097a0-d10f-5cac-a649-cae505e82f74",
@@ -11701,7 +13041,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 270,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-dairy-butter-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-butter.jpg",
         "license": "CC0",
@@ -11718,7 +13068,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:02.329Z"
     },
     {
       "id": "cf30d20a-279b-582e-8083-5c19719f87fc",
@@ -11745,7 +13095,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 60,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "ml",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/amul-masti-spiced-buttermilk-200-ml",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-buttermilk.jpg",
         "license": "CC0",
@@ -11762,7 +13122,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:03.291Z"
     },
     {
       "id": "29d14b22-81b3-5ac4-a130-6e7d30158a28",
@@ -11789,7 +13149,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 10,
+        "currency": "BDT",
+        "quantity": 14,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/cheese-puff-14-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-cheese.jpg",
         "license": "CC0",
@@ -11806,7 +13176,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:04.506Z"
     },
     {
       "id": "1c464d59-24a5-5402-81f2-362e3bbf0b40",
@@ -12097,7 +13467,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 480,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/marks-full-cream-milk-powder-poly-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-full-cream-milk-powder.jpg",
         "license": "CC0",
@@ -12114,7 +13494,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:13.469Z"
     },
     {
       "id": "28e0cc68-eb9a-5c5a-ad64-cde463b6752b",
@@ -12187,7 +13567,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 105,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-dairy-pasteurized-liquid-milk-1-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-liquid-milk.jpg",
         "license": "CC0",
@@ -12204,7 +13594,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:15.894Z"
     },
     {
       "id": "42290239-927d-5079-a7ce-aa00f708b053",
@@ -12275,7 +13665,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 200,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-dairy-paneer-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-paneer.jpg",
         "license": "CC0",
@@ -12292,7 +13692,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:18.455Z"
     },
     {
       "id": "e17c5be6-51ac-56de-a846-7d4c2212b7b7",
@@ -12319,7 +13719,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 105,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-dairy-pasteurized-liquid-milk-1-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-pasteurized-milk.jpg",
         "license": "CC0",
@@ -12336,7 +13746,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:19.654Z"
     },
     {
       "id": "e5375080-85f1-569d-9315-32966df79c59",
@@ -12452,7 +13862,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 120,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-dairy-sour-curd-500-ml-6",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-sour-curd.jpg",
         "license": "CC0",
@@ -12469,7 +13889,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:23.697Z"
     },
     {
       "id": "9791964d-dc6b-5746-ab20-80c9a7968cfc",
@@ -12497,7 +13917,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 25,
+        "currency": "BDT",
+        "quantity": 75,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ultra-sweet-curd-75-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-sweet-curd.jpg",
         "license": "CC0",
@@ -12514,7 +13944,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:26.490Z"
     },
     {
       "id": "1906f7b4-2a7d-5483-86d2-8bb76224044f",
@@ -12541,7 +13971,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 130,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pran-uht-milk-1-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/dairy-eggs-uht-milk.jpg",
         "license": "CC0",
@@ -12558,7 +13998,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:27.869Z"
     },
     {
       "id": "8add8ef6-731d-5058-8173-73b7036a8d27",
@@ -12628,7 +14068,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 200,
+        "currency": "BDT",
+        "quantity": 175,
+        "unit": "ml",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/parachute-coconut-oil-extra-15-ml-175-ml",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-coconut-oil.jpg",
         "license": "CC0",
@@ -12645,7 +14095,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:30.753Z"
     },
     {
       "id": "adca1dd1-e036-5f8b-b0a7-622955506cc7",
@@ -12715,7 +14165,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 390,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/aarong-dairy-pure-ghee-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-ghee.jpg",
         "license": "CC0",
@@ -12732,7 +14192,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:34.361Z"
     },
     {
       "id": "73047af5-a9da-51bf-8d50-e9c1dd915aa4",
@@ -12759,7 +14219,17 @@
       ],
       "defaultQuantity": 500,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 579,
+        "currency": "BDT",
+        "quantity": 500,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/nawar-sunflower-margarine-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-margarine.jpg",
         "license": "CC0",
@@ -12776,7 +14246,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:35.335Z"
     },
     {
       "id": "dcaa2dc1-9a18-5bca-9610-81222e50cc07",
@@ -12804,7 +14274,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 380,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-pure-mustard-oil-1-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-mustard-oil.jpg",
         "license": "CC0",
@@ -12821,7 +14301,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:36.611Z"
     },
     {
       "id": "9a596fcb-8af6-5c57-9390-58b60109bc5c",
@@ -12847,7 +14327,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 6855,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/olio-orolio-olive-oil-5-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-olive-oil.jpg",
         "license": "CC0",
@@ -12864,7 +14354,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:37.754Z"
     },
     {
       "id": "06577883-dffd-5609-83de-ef972ab9c25b",
@@ -12933,7 +14423,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 345,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "ml",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/farmers-gold-peanut-oil-100-ml",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-peanut-oil.jpg",
         "license": "CC0",
@@ -12950,7 +14450,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:40.293Z"
     },
     {
       "id": "80c4bce1-59e7-5609-823c-865cc67d7d76",
@@ -12976,7 +14476,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1210,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fortune-fortified-rice-bran-oil-5-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-rice-bran-oil.jpg",
         "license": "CC0",
@@ -12993,7 +14503,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:41.601Z"
     },
     {
       "id": "45c0da65-11ae-5b73-b6ea-4507e41451c5",
@@ -13019,7 +14529,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 1045,
+        "currency": "BDT",
+        "quantity": 630,
+        "unit": "ml",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/yo-we-fragrance-sesame-oil-630-ml",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-sesame-oil.jpg",
         "license": "CC0",
@@ -13036,7 +14556,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:42.914Z"
     },
     {
       "id": "5e021731-9c73-5807-b683-b337bc243162",
@@ -13106,7 +14626,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 2100,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "l",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kings-sunflower-oil-pet-5-ltr",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/oils-fats-sunflower-oil.jpg",
         "license": "CC0",
@@ -13123,7 +14653,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:45.654Z"
     },
     {
       "id": "472e063d-064a-54f8-b0c9-2a042cce732d",
@@ -13194,7 +14724,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 95,
+        "currency": "BDT",
+        "quantity": 150,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/saad-baking-powder-150-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-baking-powder.jpg",
         "license": "CC0",
@@ -13211,7 +14751,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:48.160Z"
     },
     {
       "id": "edbdf1c8-2e92-581c-8cbd-a626e9248846",
@@ -13238,7 +14778,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 25,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/baking-soda-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-baking-soda.jpg",
         "license": "CC0",
@@ -13255,7 +14805,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:49.266Z"
     },
     {
       "id": "5a238cbb-ef40-5e5d-9c13-9f4cdaf5d090",
@@ -13283,7 +14833,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 29,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bay-leaves-tejpata-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-bay-leaf.jpg",
         "license": "CC0",
@@ -13300,7 +14860,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:50.450Z"
     },
     {
       "id": "7d097431-2728-5ec4-bdeb-1547a0aa5c62",
@@ -13327,7 +14887,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 60,
+        "currency": "BDT",
+        "quantity": 40,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-biryani-masala-40-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-biryani-masala.jpg",
         "license": "CC0",
@@ -13344,7 +14914,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:51.726Z"
     },
     {
       "id": "138d96c5-e59d-5553-ab59-1b643852a68b",
@@ -13371,7 +14941,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 199,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/black-cardamom-50-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-black-cardamom.jpg",
         "license": "CC0",
@@ -13388,7 +14968,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:53.239Z"
     },
     {
       "id": "13637688-7de8-5641-8327-31b5746b6059",
@@ -13416,7 +14996,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 49,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/black-cumin-kalo-jira-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-black-cumin.jpg",
         "license": "CC0",
@@ -13433,7 +15023,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:54.573Z"
     },
     {
       "id": "ce338f27-e3e3-564e-bdf9-96052518be73",
@@ -13460,7 +15050,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 75,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/black-pepper-whole-50-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-black-pepper.jpg",
         "license": "CC0",
@@ -13477,7 +15077,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:55.890Z"
     },
     {
       "id": "ae04e60f-b84c-58f0-86a6-84ed84f5a971",
@@ -13504,7 +15104,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 759,
+        "currency": "BDT",
+        "quantity": 800,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/brown-suger-800-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-brown-sugar.jpg",
         "license": "CC0",
@@ -13521,7 +15131,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:12:57.395Z"
     },
     {
       "id": "6c3172f8-0cb2-5c53-be9b-caa7fa456758",
@@ -13592,7 +15202,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 138,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/shan-chana-chaat-seasoning-60-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-chaat-masala.jpg",
         "license": "CC0",
@@ -13609,7 +15229,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:01.151Z"
     },
     {
       "id": "a03028a3-bbd9-5033-bd54-260c10512b1a",
@@ -13680,7 +15300,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 59,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/cinnamon-daruchini-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-cinnamon.jpg",
         "license": "CC0",
@@ -13697,7 +15327,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:03.583Z"
     },
     {
       "id": "f1a9264a-8125-526c-a5b9-311dd8dea81a",
@@ -13725,7 +15355,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 79,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/cloves-lobongo-50-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-clove.jpg",
         "license": "CC0",
@@ -13742,7 +15382,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:04.895Z"
     },
     {
       "id": "cfedec1a-d746-52db-ae43-d87ae4eb1887",
@@ -13769,7 +15409,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 110,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-coriander-powder-200-gm-radhuni-dhoniya",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-coriander-powder.jpg",
         "license": "CC0",
@@ -13786,7 +15436,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:06.361Z"
     },
     {
       "id": "0c0590cd-ce96-5fcf-bb9f-5113d9da952a",
@@ -13859,7 +15509,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 160,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-cumin-powder-500-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-cumin-powder.jpg",
         "license": "CC0",
@@ -13876,7 +15536,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:09.174Z"
     },
     {
       "id": "00861cf4-4fd6-5679-be1d-9edbb48e1a33",
@@ -13903,7 +15563,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 120,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ekata-cumin-seed-jira-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-cumin-seed.jpg",
         "license": "CC0",
@@ -13920,7 +15590,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:10.918Z"
     },
     {
       "id": "324e9bf2-7947-58d7-b13b-b78daa90571a",
@@ -14125,7 +15795,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 45,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/provati-fennel-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-fennel.jpg",
         "license": "CC0",
@@ -14142,7 +15822,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:16.626Z"
     },
     {
       "id": "c8e20e80-aafb-5827-873f-2ad29b334526",
@@ -14169,7 +15849,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 25,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/fenugreek-methi-seed-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-fenugreek.jpg",
         "license": "CC0",
@@ -14186,7 +15876,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:17.619Z"
     },
     {
       "id": "ca649b0a-2718-518a-a84f-c0a0df88209c",
@@ -14301,7 +15991,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 95,
+        "currency": "BDT",
+        "quantity": 40,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-garam-masala-40-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-garam-masala.jpg",
         "license": "CC0",
@@ -14318,7 +16018,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:22.644Z"
     },
     {
       "id": "bb92c96d-bcdf-5368-b4e8-0561a0c0bce8",
@@ -14347,7 +16047,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 299,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/green-cardamom-shobuj-elachi-50-gm-4",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-green-cardamom.jpg",
         "license": "CC0",
@@ -14364,7 +16074,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:23.887Z"
     },
     {
       "id": "ed73aa5f-b8a5-54e9-9882-86f6b8290f24",
@@ -14436,7 +16146,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 42,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "kg",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/pran-iodized-salt-1-kg",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-iodized-salt.jpg",
         "license": "CC0",
@@ -14453,7 +16173,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:26.077Z"
     },
     {
       "id": "b5066351-c531-5ec9-9f28-73ff0649e5ba",
@@ -14523,7 +16243,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 199,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mace-jaytree-50-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-mace.jpg",
         "license": "CC0",
@@ -14540,7 +16270,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:28.112Z"
     },
     {
       "id": "32122772-7df3-58bd-9dab-6824bdcc54db",
@@ -14697,7 +16427,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 25,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/mustard-seed-yellow-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-mustard-seed.jpg",
         "license": "CC0",
@@ -14714,7 +16454,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:32.964Z"
     },
     {
       "id": "9ce97cfc-c3e7-5a37-9872-666a1c24005d",
@@ -14741,7 +16481,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 60,
+        "currency": "BDT",
+        "quantity": 20,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ekata-nutmeg-jayfal-powder-20-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-nutmeg.jpg",
         "license": "CC0",
@@ -14758,7 +16508,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:33.877Z"
     },
     {
       "id": "945fd9da-cc61-5da2-88cb-e06dd2039cb0",
@@ -14787,7 +16537,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 40,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ekata-panch-phoron-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-panch-phoron.jpg",
         "license": "CC0",
@@ -14804,7 +16564,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:34.806Z"
     },
     {
       "id": "5b307a34-bb5e-53a6-aaa1-27226edb0cba",
@@ -14874,7 +16634,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 140,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-chilli-morich-powder-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-radhuni.jpg",
         "license": "CC0",
@@ -14891,7 +16661,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:38.537Z"
     },
     {
       "id": "26ff9ca7-2622-5884-b9bf-41920a56a5e0",
@@ -14963,7 +16733,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 55,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/provati-bit-salt-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-rock-salt.jpg",
         "license": "CC0",
@@ -14980,7 +16760,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:41.494Z"
     },
     {
       "id": "3a0d54b1-9927-5a60-b896-bcc420c641cc",
@@ -15050,7 +16830,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 299,
+        "currency": "BDT",
+        "quantity": 1,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/saffron-jafran-1-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-saffron.jpg",
         "license": "CC0",
@@ -15067,7 +16857,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:44.235Z"
     },
     {
       "id": "36fcc3df-1b1f-5271-91ab-857473ba1034",
@@ -15181,7 +16971,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 39,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/sugar-candy-tal-misri-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-sugar.jpg",
         "license": "CC0",
@@ -15198,7 +16998,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:47.929Z"
     },
     {
       "id": "e76588e0-261b-5c5e-995c-b34917becb7d",
@@ -15312,7 +17112,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 125,
+        "currency": "BDT",
+        "quantity": 350,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/ruchi-tomato-ketchup-350-gm-free-glass-bowl",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-tomato-ketchup.jpg",
         "license": "CC0",
@@ -15329,7 +17139,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:51.927Z"
     },
     {
       "id": "9200b17e-1e2a-5e07-b423-6d1f12b42cee",
@@ -15358,7 +17168,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 145,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/radhuni-turmeric-holud-powder-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-turmeric-powder.jpg",
         "license": "CC0",
@@ -15375,7 +17195,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:53.208Z"
     },
     {
       "id": "bf7c5495-2449-5c7b-935e-bfc46cf84488",
@@ -15488,7 +17308,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 99,
+        "currency": "BDT",
+        "quantity": 50,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/white-pepper-whole-50-gm-2",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-white-pepper.jpg",
         "license": "CC0",
@@ -15505,7 +17335,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:56.876Z"
     },
     {
       "id": "eea065a4-6c9f-5f7c-be04-04c9f03bf047",
@@ -15532,7 +17362,17 @@
       ],
       "defaultQuantity": 100,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 60,
+        "currency": "BDT",
+        "quantity": 35,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/anchor-yeast-35-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/spices-condiments-yeast.jpg",
         "license": "CC0",
@@ -15549,7 +17389,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:13:57.874Z"
     },
     {
       "id": "6154f2b1-1869-5d45-8038-4c438da09cc7",
@@ -17334,7 +19174,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 130,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/brooke-bond-taaza-black-tea-150-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-black-tea.jpg",
         "license": "CC0",
@@ -17351,7 +19201,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:14:48.883Z"
     },
     {
       "id": "2429c3fa-b053-588a-baa1-c81e367a85e1",
@@ -17555,7 +19405,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 85,
+        "currency": "BDT",
+        "quantity": 200,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/smc-bolt-glucose-powder-200-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-glucose-powder.jpg",
         "license": "CC0",
@@ -17572,7 +19432,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:14:56.571Z"
     },
     {
       "id": "f441b045-8946-5507-8eee-97998ac8a84f",
@@ -17599,7 +19459,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 215,
+        "currency": "BDT",
+        "quantity": 60,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kazi-kazi-organic-green-tea-40-pcs-60-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-green-tea.jpg",
         "license": "CC0",
@@ -17616,7 +19486,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:14:57.944Z"
     },
     {
       "id": "ab3a5b0d-a7e4-54aa-baa6-5748b36a479b",
@@ -17643,7 +19513,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 650,
+        "currency": "BDT",
+        "quantity": 250,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bancoff-arabica-medium-roast-ground-coffee-250-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-ground-coffee.jpg",
         "license": "CC0",
@@ -17660,7 +19540,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:14:59.241Z"
     },
     {
       "id": "32d52df6-e661-50de-b355-8133cbe4ebcb",
@@ -17687,7 +19567,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 620,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/kd-herbal-tea-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-herbal-tea.jpg",
         "license": "CC0",
@@ -17704,7 +19594,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:15:00.492Z"
     },
     {
       "id": "d078527d-a499-597c-9080-3d82ef53ddd7",
@@ -17731,7 +19621,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 275,
+        "currency": "BDT",
+        "quantity": 45,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/nestle-nescafe-classic-instant-coffee-jar-45-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-instant-coffee.jpg",
         "license": "CC0",
@@ -17748,7 +19648,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:15:01.811Z"
     },
     {
       "id": "8d8999cf-b6ce-5c06-9729-a466e73e80fa",
@@ -17995,7 +19895,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 780,
+        "currency": "BDT",
+        "quantity": 750,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/tang-orange-flavoured-instant-drink-powder-jar-750-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-powder-drink.jpg",
         "license": "CC0",
@@ -18012,7 +19922,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:15:11.394Z"
     },
     {
       "id": "0f17e4ee-ea98-5ba8-a7ee-6908e50802aa",
@@ -18228,7 +20138,17 @@
       ],
       "defaultQuantity": 200,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 230,
+        "currency": "BDT",
+        "quantity": 100,
+        "unit": "g",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/jafflong-green-tea-bag-in-bag-100-gm",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/beverages-tea-bag.jpg",
         "license": "CC0",
@@ -18245,7 +20165,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:15:18.356Z"
     },
     {
       "id": "2489ef4c-c39d-543e-b121-3d13fc764f51",
@@ -22010,7 +23930,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 115,
+        "currency": "BDT",
+        "quantity": 6,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/gillette-guard-razor-cartridges-6-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-razor.jpg",
         "license": "CC0",
@@ -22027,7 +23957,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:17:17.623Z"
     },
     {
       "id": "6dd5b6ce-61a1-5d5a-ad77-9a0d92314be2",
@@ -22282,7 +24212,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 495,
+        "currency": "BDT",
+        "quantity": 2,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/prodentalb-rice-husk-toothbrush-2-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/personal-care-toothbrush.jpg",
         "license": "CC0",
@@ -22299,7 +24239,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:17:26.794Z"
     },
     {
       "id": "83212374-18b8-548d-b5c8-443f66ae6296",
@@ -24801,7 +26741,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 49,
+        "currency": "BDT",
+        "quantity": 2,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/sunlite-heavy-duty-aa-battery-2-pcs-2",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-battery.jpg",
         "license": "CC0",
@@ -24818,7 +26768,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:18:47.188Z"
     },
     {
       "id": "c89dde27-1a9b-5ecf-b578-c0aeada038f7",
@@ -24846,7 +26796,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 79,
+        "currency": "BDT",
+        "quantity": 6,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/candle-6-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-candle.jpg",
         "license": "CC0",
@@ -24863,7 +26823,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:18:48.233Z"
     },
     {
       "id": "d1dd6cad-17ca-5743-8eed-2b958ca4376c",
@@ -25433,7 +27393,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 349,
+        "currency": "BDT",
+        "quantity": 12,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/bbq-silver-grill-skewer-sticks-12-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-skewer.jpg",
         "license": "CC0",
@@ -25450,7 +27420,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:19:05.016Z"
     },
     {
       "id": "95a6eb4c-ae77-5d78-932f-2135ad879f15",
@@ -25478,7 +27448,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 189,
+        "currency": "BDT",
+        "quantity": 4,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/toothpick-4-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/household-kitchen-toothpick.jpg",
         "license": "CC0",
@@ -25495,7 +27475,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:19:06.083Z"
     },
     {
       "id": "3a6f061f-17c8-5c18-8fc1-24260461837e",
@@ -25838,7 +27818,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 249,
+        "currency": "BDT",
+        "quantity": 12,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/faber-castell-hb-pencil-with-eraser-12-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-eraser.jpg",
         "license": "CC0",
@@ -25855,7 +27845,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:19:18.016Z"
     },
     {
       "id": "252df5f3-daec-547b-b3d8-1b4a8926e12d",
@@ -25883,7 +27873,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 100,
+        "currency": "BDT",
+        "quantity": 5,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/glue-gun-stick-11-inch-white-5-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-glue.jpg",
         "license": "CC0",
@@ -25900,7 +27900,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:19:19.189Z"
     },
     {
       "id": "dd96235c-2ea3-5742-8568-964d12b81a61",
@@ -26063,7 +28063,17 @@
       ],
       "defaultQuantity": 1,
       "averagePrice": null,
-      "priceEstimate": null,
+      "priceEstimate": {
+        "amount": 125,
+        "currency": "BDT",
+        "quantity": 12,
+        "unit": "pcs",
+        "geography": "Dhaka",
+        "observedAt": "2026-07-10",
+        "marketLevel": "retail",
+        "sourceUrl": "https://chaldal.com/faber-castell-pencil-7420-hb-12-pcs",
+        "method": "scraped"
+      },
       "image": {
         "url": "https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/images/stationery-pencil.jpg",
         "license": "CC0",
@@ -26080,7 +28090,7 @@
         "curated-research-2026-07-02"
       ],
       "createdAt": "2026-07-02T00:00:00.000Z",
-      "updatedAt": "2026-07-02T00:00:00.000Z"
+      "updatedAt": "2026-07-10T06:19:25.154Z"
     },
     {
       "id": "856666e5-2724-5781-87e2-8aa6869ed86e",

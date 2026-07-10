@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "1.0.0",
-  "releasedAt": "2026-07-02T00:00:00.000Z",
+  "releasedAt": "2026-07-10T06:19:32.374Z",
   "minimumAppVersion": "1.0.0",
   "breaking": false,
   "locale": "bn-BD",
@@ -15,8 +15,8 @@
     },
     "items": {
       "path": "items.json",
-      "sha256": "d6e94a8f2eee06a4b50b76fa8a3bfcdae9fafa4f409b254ad995aeae2a9ccfbc",
-      "bytes": 692094,
+      "sha256": "554f15b019fd6957837eafe23fe7b4a4c6ccfeb934c45ba17bb9f390cdfb0330",
+      "bytes": 753183,
       "records": 593
     }
   },

@@ -543,7 +543,7 @@ function inferUnits(categorySlug, englishName) {
   return { defaultUnit: 'pcs', supportedUnits: ['pcs', 'pack'], defaultQuantity: 1 };
 }
 
-function parseCatalogue(markdown, itemImages = {}) {
+function parseCatalogue(markdown, itemImages = {}, existingItemsMap = new Map()) {
   const items = [];
   const sectionPattern = /^### (.+)\n\n([\s\S]*?)(?=\n### |\n## |$)/gm;
   for (const match of markdown.matchAll(sectionPattern)) {
@@ -581,6 +581,8 @@ function parseCatalogue(markdown, itemImages = {}) {
         ...(aliasOverrides[englishName] ?? []),
       ]);
 
+      const existing = existingItemsMap.get(slug);
+
       items.push({
         id: uuidV5(ITEM_NAMESPACE, slug),
         slug,
@@ -595,8 +597,8 @@ function parseCatalogue(markdown, itemImages = {}) {
         defaultUnit,
         supportedUnits,
         defaultQuantity,
-        averagePrice: null,
-        priceEstimate: null,
+        averagePrice: existing ? existing.averagePrice : null,
+        priceEstimate: existing ? existing.priceEstimate : null,
         image: itemImages[slug] ?? null,
         emoji: itemEmoji[englishName] ?? emojiByCategory[categorySlug],
         seasonal: Boolean(months),
@@ -635,7 +637,21 @@ try {
 } catch (err) {
   // If no mapping file exists, default to empty object
 }
-const items = parseCatalogue(markdown, itemImages);
+
+let existingItemsMap = new Map();
+try {
+  const existingItemsData = JSON.parse(await readFile(resolve(dataDir, 'items.json'), 'utf8'));
+  for (const item of existingItemsData.items) {
+    existingItemsMap.set(item.slug, {
+      averagePrice: item.averagePrice,
+      priceEstimate: item.priceEstimate
+    });
+  }
+} catch (err) {
+  // If no items.json exists yet, ignore
+}
+
+const items = parseCatalogue(markdown, itemImages, existingItemsMap);
 await mkdir(dataDir, { recursive: true });
 await mkdir(bundleDataDir, { recursive: true });
 
