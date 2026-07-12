@@ -1,23 +1,30 @@
 # Bazar Khata default dataset
 
-This repository (`github.com/cbHasib/bazar-khata-data`) is served directly through GitHub Raw with the public files at the repository root. Releases are made from the app repository via `scripts/publish-data.sh` (validate → commit → tag `v<datasetVersion>` → push).
+This repository is the **generation source and seed** for the catalogue. The
+app no longer fetches it from GitHub Raw: the `community-api` backend seeds
+Postgres from these files on first boot and serves published releases
+byte-identically at `<api>/v1/dataset`, which is what the app's
+`APP_CONFIG.remoteDataBaseUrl` (derived from `EXPO_PUBLIC_API_BASE_URL`) points
+at. Item images are served from S3/CloudFront, not this repo.
 
 ## Public files
 
 - `version.json` — small manifest checked by the app first.
 - `categories.json` — bilingual category catalogue.
-- `items.json` — bilingual generic grocery/household catalogue.
+- `items.json` — bilingual generic grocery/household catalogue (image URLs point at the CloudFront CDN).
 - `schemas/*.schema.json` — JSON Schema contracts.
 
-Raw URLs (must match the app's `APP_CONFIG.remoteDataBaseUrl`):
+These files are served to the app at:
 
 ```text
-https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/version.json
-https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/categories.json
-https://raw.githubusercontent.com/cbHasib/bazar-khata-data/main/items.json
+<api>/v1/dataset/version.json
+<api>/v1/dataset/categories.json
+<api>/v1/dataset/items.json
 ```
 
-Pin production clients to a release tag or controlled data branch rather than an arbitrary feature branch.
+The backend can still fall back to GitHub Raw for the *initial* seed
+(`DATASET_REMOTE_BASE`) when no local checkout is present, but live serving and
+image hosting have moved off GitHub.
 
 ## Release contract
 

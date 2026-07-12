@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.0.1",
+  "datasetVersion": "1.0.2",
   "releasedAt": "2026-07-02T00:00:00.000Z",
   "minimumAppVersion": "1.0.0",
   "breaking": false,
@@ -9,14 +9,14 @@
   "files": {
     "categories": {
       "path": "categories.json",
-      "sha256": "1725899bb9cf438890bc2ad35a28183d6c596f8480591be3394ef11815a499ff",
+      "sha256": "d117a8131149ffe790a7a7569b52f9039118abc48b534529cb00f728d245616b",
       "bytes": 10057,
       "records": 23
     },
     "items": {
       "path": "items.json",
-      "sha256": "7fd72c354d9148f7b5b1f0f259f29b9a009913a465b4fbd813f1e0a19fce4fcd",
-      "bytes": 753183,
+      "sha256": "b0a0e6c2f5734abb11081ffb0b5629ae1a4ac8e753c907e3d5f6bc4d416ccde8",
+      "bytes": 737765,
       "records": 593
     }
   },

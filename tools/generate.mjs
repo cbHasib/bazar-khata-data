@@ -11,7 +11,7 @@ const bundleDataDir = resolve(appDir, 'src/assets/data');
 const researchPath = resolve(appDir, 'research/DATA_RESEARCH.md');
 
 const RELEASED_AT = '2026-07-02T00:00:00.000Z';
-const DATASET_VERSION = '1.0.1';
+const DATASET_VERSION = '1.0.2';
 const SCHEMA_VERSION = 1;
 const CATEGORY_NAMESPACE = '6b59f8bc-f205-5a89-bf64-588f42e4644f';
 const ITEM_NAMESPACE = 'a68d5cf4-fcc5-56b1-98d2-21d6b03d31eb';
